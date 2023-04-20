@@ -1,0 +1,72 @@
+[
+  {
+    "securityType": "101",
+    "no": 1,
+    "nominalPricelist": [
+      {
+        "nominalPrice": 10
+      }
+    ]
+  },
+  {
+    "securityType": "903",
+    "no": 1,
+    "nominalPricelist": [
+      {
+        "endPrice": 100,
+        "nominalPrice": 1
+      },
+      {
+        "startPrice": 100,
+        "endPrice": 1000,
+        "nominalPrice": 5
+      },
+      {
+        "startPrice": 1000,
+        "nominalPrice": 10
+      }
+    ]
+  },
+  {
+    "securityType": "103",
+    "no": 2,
+    "nominalPricelist": [
+      {
+        "endPrice": 100,
+        "nominalPrice": 1
+      },
+      {
+        "startPrice": 100,
+        "nominalPrice": 5
+      }
+    ]
+  },
+  {
+    "securityType": "901",
+    "no": 1,
+    "nominalPricelist": [
+      {
+        "nominalPrice": 5
+      }
+    ]
+  },
+  {
+    "securityType": "1001",
+    "no": 1,
+    "nominalPricelist": [
+      {
+        "endPrice": 100,
+        "nominalPrice": 1
+      },
+      {
+        "startPrice": 100,
+        "endPrice": 1000,
+        "nominalPrice": 5
+      },
+      {
+        "startPrice": 1000,
+        "nominalPrice": 10
+      }
+    ]
+  }
+]
